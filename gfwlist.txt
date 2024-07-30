@@ -1,3 +1,5 @@
+replicate.delivery
+replicate.com
 openart.ai
 civitai.com
 cloudfront.net
